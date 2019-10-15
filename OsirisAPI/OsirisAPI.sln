@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsirisAPI", "OsirisAPI\OsirisAPI.csproj", "{DC99B003-B7A8-4BF9-8163-DC7BD824EE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsirisAPI.Tests", "OsirisAPI.Tests\OsirisAPI.Tests.csproj", "{7FC87CEF-F280-47D9-A750-3DEE930FA957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC99B003-B7A8-4BF9-8163-DC7BD824EE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC99B003-B7A8-4BF9-8163-DC7BD824EE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC99B003-B7A8-4BF9-8163-DC7BD824EE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC99B003-B7A8-4BF9-8163-DC7BD824EE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC87CEF-F280-47D9-A750-3DEE930FA957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC87CEF-F280-47D9-A750-3DEE930FA957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC87CEF-F280-47D9-A750-3DEE930FA957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC87CEF-F280-47D9-A750-3DEE930FA957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A82AF2-3C5F-4244-A819-9E7C7CC40A22}
+	EndGlobalSection
+EndGlobal
