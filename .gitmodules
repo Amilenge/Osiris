@@ -1,0 +1,3 @@
+[submodule "OsirisClient"]
+	path = OsirisClient
+	url = https://github.com/Amilenge/OsirisClient.git
